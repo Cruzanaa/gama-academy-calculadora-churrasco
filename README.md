@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GamaAcademy" title="#GamaAcademy" src="./logo.png" width="250px" />
+    <img alt="GamaAcademy" title="#GamaAcademy" src="public/logo.png" width="250px" />
 </h1>
 
 <h4 align="center"> 
@@ -7,8 +7,11 @@
 </h4>
 
 <p align="center">
-    <img alt="GamaHacker" title="#GamaHacker" src="./hacker.svg" width="50px" />
+    <img alt="GamaHacker" title="#GamaHacker" src="public/hacker.svg" width="50px" />
 </p>
+
+## Aluna 🙆
+Ana Cruz
 
 ## Sobre o Projeto 💻
 
