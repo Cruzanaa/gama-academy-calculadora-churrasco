@@ -10,6 +10,8 @@ main {
 }
 .cabecario {
     text-align: center;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
     /* background: #0A0101 0% 0% no-repeat padding-box;
     box-shadow: 0px 3px 6px #00000029;
     border: 1px solid #707070;
@@ -44,4 +46,18 @@ main {
     height: 70px;
     border: 5px solid #F7F7F7;
     background-color:  #731AB7
+}
+
+
+
+@media (max-width: 768px) { /*----- VERSÃO MOBILE ----*/
+
+/*--- Header ---*/
+.logo {
+    width: 50%;
+}
+.titulo-calculadora {
+    font-size: 40px;
+}
+
 }
